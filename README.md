@@ -3,7 +3,5 @@ Client-Server System to share data using TCP Sockets
 <br/>
 
 <i>
-By- Debabrata Sharma
-<br/>
-Kamallochan Boruah
+Credit- Debabrata Sharma
 </i>
